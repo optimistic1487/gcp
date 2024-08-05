@@ -1,4 +1,4 @@
-# gcp
+# gcp.
 Hive Job scheduling from Onprem to Dataproc
 #prerequisites
 # Download the jar from https://storage.googleapis.com/hadoop-lib/gcs/gcs-connector-latest-hadoop2.jar
